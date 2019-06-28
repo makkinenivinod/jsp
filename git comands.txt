@@ -1,0 +1,13 @@
+git init
+git config --global user.name "name"
+git config --global user.email "email"
+git config --list * show config list
+ls -a  * listing
+touch file1  * file adding
+git status
+git add file1 *staging
+git status
+git commit -m "label" * committing
+git log * check log for modifications
+ //once committing if we check log it diplays shawcode/iformation for commiited data
+//we use shaw code for viewing changes 
